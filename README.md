@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### 📈 GitHub Stats
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnesAkkal&show_icons=true&theme=radical)
 
 ### Languages and Tools:
