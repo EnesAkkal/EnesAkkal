@@ -5,6 +5,8 @@
 
 I'm a Front-End developer from Turkey, I'm a passionate learner who's always willing to learn and work across technologies.
 
+🔭 I’m currently pursuing Masters in Software Engineering at Bogazici University.
+
 
 ### Glad to see you here!  ![](https://komarev.com/ghpvc/?username=EnesAkkal&color=blue)
 
