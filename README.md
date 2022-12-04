@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/enes-akkal-01334a131/)
 
-## Glad to see you here!  ![](https://komarev.com/ghpvc/?username=EnesAkkal&color=blue)
+### Glad to see you here!  ![](https://komarev.com/ghpvc/?username=EnesAkkal&color=blue)
 
 ### 📈 My GitHub Stats
 
