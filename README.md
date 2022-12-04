@@ -5,6 +5,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,bootstrap,css,firebase,react,visualstudio,figma&theme=light)](https://skillicons.dev)
 
+![](https://komarev.com/ghpvc/?username=EnesAkkal&color=blue)
+
+
 
 
 <!--
