@@ -11,7 +11,7 @@ I'm a Front-End developer from Turkey, I'm a passionate learner who's always wil
 
 ⚡ I’m working on Front-End development projects.
 
-🙌 I'm currently open to: Front-End Development Roles
+🙌 I'm currently open to Front-End Development Roles
 
 
 ### Glad to see you here!  ![](https://komarev.com/ghpvc/?username=EnesAkkal&color=blue)
