@@ -16,7 +16,7 @@ I'm a Front-End developer from Turkey, I'm a passionate learner who's always wil
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnesAkkal&show_icons=true&theme=radical)
 
-## 🛠  Languages and Tools:
+## 🛠  Languages and Tools I use:
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,bootstrap,css,firebase,react,visualstudio,figma&theme=light)](https://skillicons.dev)
 
 
