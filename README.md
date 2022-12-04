@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## Hey 👋, I'm [Enes Akkal!](https://github.com/EnesAkkal/)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/enes-akkal-01334a131/)
+
+
 ### 📈 My GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnesAkkal&show_icons=true&theme=radical)
