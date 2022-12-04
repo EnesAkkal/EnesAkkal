@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnesAkkal&show_icons=true&theme=radical)
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,bootstrap,css,firebase,firebases,react,visualstudiofigma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,bootstrap,css,firebase,firebases,react,visualstudio,figma&theme=light)](https://skillicons.dev)
 
 
 
