@@ -3,6 +3,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnesAkkal&show_icons=true&theme=radical)
 
 
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
+
+
 <!--
 **EnesAkkal/EnesAkkal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
