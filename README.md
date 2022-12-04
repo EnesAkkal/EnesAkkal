@@ -13,6 +13,8 @@ I'm a Front-End developer from Turkey, I'm a passionate learner who's always wil
 
 🙌 I'm currently open to Front-End Development Roles
 
+🌱 I’m currently learning HTML, CSS, React, and Java.
+
 
 ### Glad to see you here!  ![](https://komarev.com/ghpvc/?username=EnesAkkal&color=blue)
 
